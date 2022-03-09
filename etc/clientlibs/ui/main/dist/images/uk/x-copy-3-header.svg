@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>8DE5B262-9588-4226-AB94-4B5D6790E05A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PT0010-Header-Standard-320-Menu" transform="translate(-282.000000, -21.000000)">
+            <g id="global-nav" transform="translate(0.000000, -1.000000)">
+                <rect id="BG" fill="#FFFFFF" x="0" y="1" width="320" height="568"></rect>
+                <g id="Top">
+                    <rect id="Rectangle-125" fill="#FFFFFF" x="0" y="0" width="320" height="60"></rect>
+                    <path d="M291.172196,28.8278045 L291.172196,21.1721955 C291.172196,20.5251436 290.647052,20 290,20 C289.351776,20 288.827804,20.5251436 288.827804,21.1721955 L288.827804,28.8278045 L281.171023,28.8278045 C280.523971,28.8278045 280,29.3529481 280,30 C280,30.6470519 280.523971,31.1721955 281.171023,31.1721955 L288.827804,31.1721955 L288.827804,38.8278045 C288.827804,39.4748564 289.351776,40 290,40 C290.647052,40 291.172196,39.4748564 291.172196,38.8278045 L291.172196,31.1721955 L298.827804,31.1721955 C299.476029,31.1721955 300,30.6470519 300,30 C300,29.3529481 299.476029,28.8278045 298.827804,28.8278045 L291.172196,28.8278045 Z" id="close" fill="#333333" transform="translate(290.000000, 30.000000) rotate(-315.000000) translate(-290.000000, -30.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

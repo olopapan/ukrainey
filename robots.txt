@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: */_jcr_content/
+Sitemap: https://www.savethechildren.org.uk/sitemap.xml
